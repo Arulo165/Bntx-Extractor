@@ -4,8 +4,6 @@
  * Copyright © Arulo 2026
  * Based on BNTX Extractor v0.6 by AboodXD
  * 
- * Usage: ./bntx2png input.bntx
- * 
  * Output: Creates .dds files for each texture
  */
 
